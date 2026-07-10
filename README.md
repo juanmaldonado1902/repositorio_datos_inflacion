@@ -1,7 +1,7 @@
 # repositorio_datos_inflacion
 
 
-Descripción de la carpeta inflación dentro de la principal (materia_indicadores) (Dropbox — inflacion)
+Descripción de la carpeta inflación dentro de la principal (materia_indicadores) (Dropbox — materia indicadores - inflacion)
 
 La carpeta principal contiene cinco subcarpetas y la presentación más actualizada, inflacion_final_m3, la cual también se encuentra en este repositorio.
 
