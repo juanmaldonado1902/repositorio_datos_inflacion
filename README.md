@@ -3,7 +3,7 @@
 
 Descripción de la carpeta inflación dentro de la principal (materia_indicadores) (Dropbox — materia indicadores - inflacion)
 
-La carpeta principal contiene cinco subcarpetas y la presentación más actualizada, inflacion_final_m3, la cual también se encuentra en este repositorio.
+La carpeta principal contiene cinco subcarpetas y la presentación más actualizada, inflacion_final, la cual también se encuentra en este repositorio.
 
 El contenido de las cinco carpetas es el siguiente:
 
@@ -32,6 +32,7 @@ Contiene 55 archivos con el histórico de índices genéricos por área geográf
 6. Codigos_inflacion
 Contiene los cuatro scripts principales para la realización de las actividades propuestas:
 
+solucion_inflacion_completa - Unica tarea  (LA UNIFICADA), los demás archivos son partes o trabajos previos a la versión optimizada.
 inflacion_actividad1.R — Actividad 1.
 inflacion_actividad2.R — Actividad 2.
 actividad_inflacion3.R — Actividad 3. Trata la electricidad como cualquier genérico para observar el resultado y compararlo con la aproximación metodológica específica desarrollada en el script complementario.
